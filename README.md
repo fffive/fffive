@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fffive</h1>
 <!-- <h3 align="center">A passionate developer from China</h3> -->
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 <!--
 **fffive/fffive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
