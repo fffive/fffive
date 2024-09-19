@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Commit Stats🥰
 
-### 🥰
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fffive&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=JIeJaitt&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIeJaitt&layout=compact&theme=dark&langs_count=10"  alt=""/>
+</a>
+<br/>
 
-
-### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fffive&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Visit Friends (since 28 April 2023):
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 src="https://count.getloli.com/get/@JIeJaitt?theme=gelbooru"  alt=""/>
+</a>
